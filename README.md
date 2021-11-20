@@ -1,4 +1,4 @@
-### Hi there 👋
+### How its going?
 
 <!--
 **Sergi012/sergi012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
