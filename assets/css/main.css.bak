@@ -83,7 +83,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #fff;
+		background:#E6E6E6;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -272,7 +272,7 @@ input, select, textarea {
 		.container.max {
 			width: 100%;
 		}
-        .video {width: 50%;} 
+       
 		@media screen and (max-width: 980px) {
 
 			.container {
@@ -1826,6 +1826,8 @@ input, select, textarea {
 		padding: 0 0.75em;
 		text-decoration: none;
 		width: 100%;
+		
+	
 	}
 
 		input[type="text"]:invalid,

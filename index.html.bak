@@ -35,53 +35,52 @@
 high-quality rigging work. Known for thriving in fast-paced environments without supervision.
 Comfortable at heights and in tight spaces.</p>
 						<ul class="actions">
-							<li> <a href="resume/sergio resume.pdf" class="button"> More information? </a> </li> </ul> </section>
+							<li> <a href="resume/sergio resume.PDF" class="button"> More information? </a> </li> </ul> </section>
 
 				<!-- Two -->
 					<section id="two">
 						<h2>Recent Work</h2>
 						<div class="row">
-							<article class="col-5 col-12-xsmall work-item">
-							<a href="images/fulls/st.jpg" class="image fit thumb"><img src="images/fulls/st.jpg" alt="" /></a>
-							<h3>multi-level parking. In colaboration with PDQ construction ltd</h3>
-								<p>  					</p>
+						<article class="col-6 col-12-xsmall work-item">
+								<a href="videos/1.mp4" class="image fit thumb"> <video  width="300" height="400" src="videos/1.mp4"  autoplay controls repeat/></a>
+								<h3></h3>
+								<p></p>
 							</article>
 						    <article class="col-5 col-12-xsmall work-item">
 								<a href="images/fulls/1.jpg" class="image fit thumb"> <img src="images/fulls/1.jpg" alt="" /></a>
-								<h3></h3>
+								<h3>multi-level parking. In colaboration with PDQ construction ltd</h3>
 								<p></p>
 							</article>
 							<article class="video">
 							<class="col-5 col-5-xsmall work-item">
-								<a href="videos/rigger.mp4" <class=video>  <video src="videos/rigger.mp4" controls> </a>
-								<h3>tower crane  </h3>
-								<p> Rigging in blind spot.</p>
+								<a href="videos/rigger.mp4" <class=video>  <video width="375" height="300" src="videos/rigger.mp4" controls> </a>
+								<h3>Rigging in blind spot </h3>
+								<p> </p>
 							</article>
-							<article class="col-5 col-3-xsmall work-item">
-								<a href="images/fulls/2.jpg" class="image fit thumb"><img src="images/fulls/2.jpg" alt="" /></a>
-								<h3>Inside the cab</h3>
+							<article class="col-5 col-4-xsmall work-item">
+								<a href="images/fulls/2.jpg" class="image fit thumb"> <img width="450" height="300" src="images/fulls/2.jpg" alt=""/> </a>
+								<h3>Inside the cabin of a tower crane</h3>
 								<p>Moving material above the job site.</p>
 							</article>
 							<article class="col-6 col-12-xsmall work-item">
-								<a href="images/fulls/05.jpg" class="image fit thumb"><img src="images/thumbs/05.jpg" alt="" /></a>
-								<h3>Nunc enim commodo aliquet</h3>
-								<p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
+								<a href="images/fulls/3.jpg" class="image fit thumb"><img width="700" height="400" src="images/fulls/3.jpg" alt="" /></a>
+								<h3>Modifying the code for make this web page.</h3>
+								<p> </p>
+								<p></p>
 							</article>
-							<article class="col-6 col-12-xsmall work-item">
-								<a href="images/fulls/06.jpg" class="image fit thumb"><img src="images/thumbs/06.jpg" alt="" /></a>
-								<h3>Risus ornare lacinia</h3>
-								<p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
+							<article class="col-5 col-12-xsmall work-item">
+							<a href="images/fulls/st.jpg" class="image fit thumb"><img src="images/fulls/st.jpg" alt="" /></a>
+							<h3>Multi-level parking. In colaboration with PDQ construction ltd</h3>
+								<p>  					</p>
 							</article>
 						</div>
-						<ul class="actions">
-							<li><a href="#" class="button">Full Portfolio</a></li>
 						</ul>
 					</section>
 
 				<!-- Three -->
 					<section id="three">
 						<h2>Get In Touch</h2>
-						<p>Accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque lorem ipsum dolor.</p>
+						<p> Do you like this web page and what is on it? if you have any question or comment about it feel free to contact.</p>
 						<div class="row">
 							<div class="col-8 col-12-small">
 								<form method="post" action="#">
@@ -99,17 +98,17 @@ Comfortable at heights and in tight spaces.</p>
 								<ul class="labeled-icons">
 									<li>
 										<h3 class="icon solid fa-home"><span class="label">Address</span></h3>
-										1234 Somewhere Rd.<br />
-										Nashville, TN 00000<br />
-										United States
+										Granville st<br />
+										vancouver <br />
+										canada
 									</li>
 									<li>
 										<h3 class="icon solid fa-mobile-alt"><span class="label">Phone</span></h3>
-										000-000-0000
+										6048491610
 									</li>
 									<li>
 										<h3 class="icon solid fa-envelope"><span class="label">Email</span></h3>
-										<a href="#">hello@untitled.tld</a>
+										<a href="https://mail.google.com/">sepp6554@gmail.com</a>
 									</li>
 								</ul>
 							</div>
