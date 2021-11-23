@@ -272,7 +272,7 @@ input, select, textarea {
 		.container.max {
 			width: 100%;
 		}
-
+        .video {width: 50%;.container.xsmall} 
 		@media screen and (max-width: 980px) {
 
 			.container {
